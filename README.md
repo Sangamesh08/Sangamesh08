@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sangamesh08
+- 👀 I’m interested in Data analysis, automation and scientific prediction
+- 🌱 I’m currently learning Data Science and AI
+- 💞️ I’m looking to collaborate on Machine learning projects
+- 📫 How to reach me sangameshwaransadhasivam@gmail.co
